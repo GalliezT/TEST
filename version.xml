@@ -2,8 +2,9 @@
 <item>
   <version>1.4.2</version> <!-- version du nouvel EXE -->
   <url>https://files.jrsoftware.org/is/6/innosetup-6.6.1.exe</url>
-  <changelog></changelog>
+  <changelog>Test THomas</changelog>
 </item>
+
 
 
 
