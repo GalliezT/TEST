@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <item>
   <version>1.4.1</version> <!-- version du nouvel EXE -->
-  <url>https://raw.githubusercontent.com/GalliezT/TEST/main/updates/GcPlan.exe</url>
+  <url>https://files.jrsoftware.org/is/6/innosetup-6.6.1.exe</url>
   <changelog>Correction de bugs et améliorations mineures</changelog>
 
 </item>
+
 
 
