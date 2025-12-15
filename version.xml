@@ -2,8 +2,9 @@
 <item>
   <version>1.0.1</version> <!-- version du nouvel EXE -->
   <url>https://raw.githubusercontent.com/GalliezT/TEST/main/GcPlan2.zip</url>
-  <changelog>https://learn.microsoft.com/en-us/dotnet/core/deploying/single-file/overview?tabs=cli</changelog>
+  <changelog></changelog>
 </item>
+
 
 
 
